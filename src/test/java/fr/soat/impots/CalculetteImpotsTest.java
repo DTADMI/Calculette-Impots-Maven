@@ -7,6 +7,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class CalculetteImpotsTest {
+
     @Test
     public void testCalculImpotAutoEntreprise() {
         Entreprise autoEntreprise = new AutoEntreprise("7684545464554", "Papaya");
